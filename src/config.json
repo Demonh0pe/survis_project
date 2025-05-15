@@ -1,0 +1,24 @@
+{
+  "selectors": [
+    {
+      "field": "keywords",
+      "prefix": "task:",
+      "label": "task"
+    },
+    {
+      "field": "keywords",
+      "prefix": "model:",
+      "label": "model"
+    },
+    {
+      "field": "keywords",
+      "prefix": "method:",
+      "label": "method"
+    },
+    {
+      "field": "keywords",
+      "prefix": "eval:",
+      "label": "eval"
+    }
+  ]
+}
